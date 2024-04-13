@@ -1,2 +1,4 @@
 give the access to the people who ever in the list
 get the users id to verify
+
+create an avatar to the users
